@@ -1,0 +1,6 @@
+{
+  "name": "KRAKE CRM - Clearminds Sales System",
+  "description": "Enterprise CRM and sales prototype for Clearminds / KrakeDev with Nextline WhatsApp integration, role simulation, atomic design system and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
